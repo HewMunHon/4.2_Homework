@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">4.2Homework</string>
+    <string name="chocolate_syrup_chkbox">Chocolate syrup</string>
+    <string name="sprinkles_chkbox">Sprinkies</string>
+    <string name="crushed_nuts_chkbox">Crushed nuts</string>
+    <string name="cherries_chkbox">Cherries</string>
+    <string name="orio_cookie_crumbles_chkbox">Orio cookie crumbles</string>
+    <string name="show_toast_button">Show Toast</string>
+</resources>
